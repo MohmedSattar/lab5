@@ -20,7 +20,9 @@ footer a:hover {
   color: #888;
 }
 
-
+th {
+	background-color: #4286f4
+}
 /*
   Hides the radio buttons ('input' tags) themselves, but not
   their labels, which form the tabs.
